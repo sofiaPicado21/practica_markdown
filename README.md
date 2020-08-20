@@ -25,4 +25,6 @@
   <a href=https://www.ucr.ac.cr/ 
 ![](https://www.r-project.org/)
 
+Imagen local del logo de R  
 
+![](Rlogo.png)
