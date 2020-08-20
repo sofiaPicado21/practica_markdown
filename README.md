@@ -31,7 +31,7 @@ Imagen local del logo de R
 
 PARA HACER TABLAS: 
 <table>
-  <tr><th>Nombre</th><th>Apellido</th></th>
+  <tr><th>Nombre</th><th>Apellido</th></tr>
   <tr><td>Sofia</td><td>Picado</td></tr>
   <tr><td>Manuel</td><td>Vargaso</td></tr>
 </table>
