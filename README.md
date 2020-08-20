@@ -28,3 +28,10 @@
 Imagen local del logo de R  
 
 ![](Rlogo.png)
+
+PARA HACER TABLAS: 
+<table>
+  <tr><td>**Nombre**</td><td>**Apellido**</td></tr>
+  <tr><td>Sofia</td><td>Picado</td></tr>
+  <tr><td>Manuel</td><td>Vargaso</td></tr>
+</table>
